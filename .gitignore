@@ -1,0 +1,18 @@
+# Compiled output
+/target/
+
+# Cargo lock (libraries ke liye optional)
+Cargo.lock
+
+# Backup files
+**/*.rs.bk
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+.env
+/src/id.json
