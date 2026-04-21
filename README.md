@@ -229,5 +229,4 @@ MIT License
 ---
 
 ## 👨‍💻 Author
-
-Built with ❤️ on Solana
+**
